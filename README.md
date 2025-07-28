@@ -30,5 +30,3 @@ The file `bitangents.ipynb` is a Jupyter notebook containing code detailing each
 | X | $K_4$ | 4 |
 | XI | $C_3$ | 3 |
 | XII | $C_2$ | 2 |
-
-## Code
